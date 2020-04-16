@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d437b424-042d-40b8-b1a8-057da734b503" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d437b424-042d-40b8-b1a8-057da734b503" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,7 +358,7 @@
       <workItem from="1586866822997" duration="5960000" />
       <workItem from="1586958760440" duration="4420000" />
       <workItem from="1586966535626" duration="1118000" />
-      <workItem from="1587009381260" duration="1148000" />
+      <workItem from="1587009381260" duration="1888000" />
     </task>
     <task id="LOCAL-00001" summary="完成：&#10;1.账号注册邮箱激活账号&#10;2.登录验证">
       <created>1582116906849</created>

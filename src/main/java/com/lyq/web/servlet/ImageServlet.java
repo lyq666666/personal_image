@@ -161,7 +161,7 @@ public class ImageServlet extends BaseServlet {
      * @return
      */
     private String parseFileName(String name){
-        System.out.println(name);
+        //System.out.println(name);
         if(name.contains(":")){
             //说明上传的图片中的名字存在路径.我们要去掉,一定要+1否则还是错的
             return name.substring(name.lastIndexOf("\\")+1);
