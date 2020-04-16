@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="imageserver2:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d437b424-042d-40b8-b1a8-057da734b503" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\maven_repository" />
+        <option name="mavenHome" value="D:/a-application/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\a-application\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1aX0nqvUfBsob4Xigay2iYb3veM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586191977731" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java-web学习\项目collection\imageserver2\src\main\webapp\images" />
+      <recent name="D:\IDEA_project\imageserver2\src\main\webapp" />
+      <recent name="D:\IDEA_project\imageserver2\src\main\webapp\images" />
+      <recent name="D:\IDEA_project\imageserver2\src\main\webapp\js" />
+      <recent name="D:\IDEA_project\imageserver2\src\main\webapp\fonts" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gyy.service.impl" />
+      <recent name="com.gyy.util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA_project\imageserver2\src\main\webapp\images" />
+      <recent name="D:\IDEA_project\imageserver2\src\main\webapp\sass" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.imageserver">
+    <configuration name="imageserver" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 8.5.11" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.11" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/imageserver2" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="imageserver2:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/imageserver2" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_imageserver2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50225" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="imageserver2:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="home.html (1)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.11" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/home.html" />
+      <deployment>
+        <artifact name="imageserver2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/imageserver2_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="home_html_(1)_imageserver2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="imageserver2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="home.html" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.11" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/home.html" />
+      <deployment>
+        <artifact name="imageserver2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/imageserver2_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="home_html_imageserver2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="imageserver2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.imageserver" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.11" />
+      <item itemvalue="Tomcat Server.home.html" />
+      <item itemvalue="Tomcat Server.home.html (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Tomcat Server.home.html (1)" />
+        <item itemvalue="Tomcat Server.home.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d437b424-042d-40b8-b1a8-057da734b503" name="Default Changelist" comment="" />
+      <created>1582082576337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582082576337</updated>
+      <workItem from="1582082579863" duration="9286000" />
+      <workItem from="1582099322442" duration="71000" />
+      <workItem from="1582099453796" duration="20709000" />
+      <workItem from="1582170283855" duration="23594000" />
+      <workItem from="1582207524426" duration="8088000" />
+      <workItem from="1582247415173" duration="26827000" />
+      <workItem from="1582347348289" duration="31400000" />
+      <workItem from="1582420667717" duration="31136000" />
+      <workItem from="1582510402051" duration="31657000" />
+      <workItem from="1582610284686" duration="16023000" />
+      <workItem from="1582633884939" duration="8228000" />
+      <workItem from="1582704156815" duration="13571000" />
+      <workItem from="1582778202026" duration="11744000" />
+      <workItem from="1582813697619" duration="3481000" />
+      <workItem from="1582871831602" duration="3440000" />
+      <workItem from="1582901752824" duration="604000" />
+      <workItem from="1582941694669" duration="5523000" />
+      <workItem from="1583234240518" duration="710000" />
+      <workItem from="1583236594417" duration="2565000" />
+      <workItem from="1583304079878" duration="8522000" />
+      <workItem from="1583371392091" duration="443000" />
+      <workItem from="1583680164049" duration="833000" />
+      <workItem from="1583741373558" duration="2082000" />
+      <workItem from="1583822818596" duration="3883000" />
+      <workItem from="1584071073566" duration="8569000" />
+      <workItem from="1584152659803" duration="3485000" />
+      <workItem from="1584186168095" duration="875000" />
+      <workItem from="1584204208778" duration="689000" />
+      <workItem from="1584230556154" duration="25000" />
+      <workItem from="1584233678677" duration="4736000" />
+      <workItem from="1584321440472" duration="1367000" />
+      <workItem from="1584339985247" duration="597000" />
+      <workItem from="1584353424418" duration="650000" />
+      <workItem from="1584455773201" duration="3464000" />
+      <workItem from="1584501237817" duration="818000" />
+      <workItem from="1584511564904" duration="5763000" />
+      <workItem from="1584518854533" duration="13483000" />
+      <workItem from="1585208415542" duration="1908000" />
+      <workItem from="1585271040149" duration="18000" />
+      <workItem from="1585664465014" duration="10472000" />
+      <workItem from="1585718023963" duration="12367000" />
+      <workItem from="1585840752724" duration="604000" />
+      <workItem from="1586189287498" duration="2902000" />
+      <workItem from="1586866822997" duration="5960000" />
+      <workItem from="1586958760440" duration="4420000" />
+      <workItem from="1586966535626" duration="1118000" />
+      <workItem from="1587009381260" duration="1148000" />
+    </task>
+    <task id="LOCAL-00001" summary="完成：&#10;1.账号注册邮箱激活账号&#10;2.登录验证">
+      <created>1582116906849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582116906849</updated>
+    </task>
+    <task id="LOCAL-00002" summary="图片相关数据库操作">
+      <created>1582207605669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582207605669</updated>
+    </task>
+    <task id="LOCAL-00003" summary="图片相关service层">
+      <created>1582207664584</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582207664584</updated>
+    </task>
+    <task id="LOCAL-00004" summary="图片操作的dao层增加功能">
+      <created>1582372484971</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582372484971</updated>
+    </task>
+    <task id="LOCAL-00005" summary="图片操作的service层更新">
+      <created>1582372524159</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582372524159</updated>
+    </task>
+    <task id="LOCAL-00006" summary="删除图片的servlet">
+      <created>1582372641356</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582372641356</updated>
+    </task>
+    <task id="LOCAL-00007" summary="查询所有的图片，并向前端返回json数据">
+      <created>1582372845881</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582372845881</updated>
+    </task>
+    <task id="LOCAL-00008" summary="查询图片获取其存储路径，然后以流的形式返回前端页面展示">
+      <created>1582372940219</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582372940219</updated>
+    </task>
+    <task id="LOCAL-00009" summary="图片文件上传处理的servlet">
+      <created>1582373152893</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582373152893</updated>
+    </task>
+    <task id="LOCAL-00010" summary="项目的业务页面">
+      <created>1582373232651</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582373232651</updated>
+    </task>
+    <task id="LOCAL-00011" summary="登录注册界面">
+      <created>1582373271393</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1582373271393</updated>
+    </task>
+    <task id="LOCAL-00012" summary="用户相关操作的servlet">
+      <created>1582540245042</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1582540245042</updated>
+    </task>
+    <task id="LOCAL-00013" summary="继承HttpServlet的子类，也是项目中所有servlet的父类,作用是减少servlet类的数量">
+      <created>1582540343900</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1582540343900</updated>
+    </task>
+    <task id="LOCAL-00014" summary="分页查询时返回前端的对象，封装了数据以及当前页面，总页码数等数据">
+      <created>1582540431913</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1582540431913</updated>
+    </task>
+    <task id="LOCAL-00015" summary="过滤器用来检查用户是否登录以及防止未登录的用户进行访问">
+      <created>1582560094938</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1582560094938</updated>
+    </task>
+    <task id="LOCAL-00016" summary="整体代码">
+      <created>1582626381282</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1582626381282</updated>
+    </task>
+    <task id="LOCAL-00017" summary="整体代码稍加更新">
+      <created>1582627879284</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1582627879284</updated>
+    </task>
+    <task id="LOCAL-00018" summary="修改了一个切换图片的Bug">
+      <created>1582628883679</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1582628883679</updated>
+    </task>
+    <task id="LOCAL-00019" summary="增加了一点文字">
+      <created>1582630340174</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1582630340174</updated>
+    </task>
+    <task id="LOCAL-00020" summary="新增的异常界面">
+      <created>1582642415975</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1582642415975</updated>
+    </task>
+    <task id="LOCAL-00021" summary="新增了错误页面跳转">
+      <created>1582642703888</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1582642703888</updated>
+    </task>
+    <task id="LOCAL-00022" summary="注释了每用的输出方法">
+      <created>1582736235366</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1582736235366</updated>
+    </task>
+    <task id="LOCAL-00023" summary="部署到服务器上改变了编码">
+      <created>1582814302341</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1582814302341</updated>
+    </task>
+    <task id="LOCAL-00024" summary="使用带缓冲区的字节流，但是大图片还是加载慢">
+      <created>1582882451908</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1582882451908</updated>
+    </task>
+    <task id="LOCAL-00025" summary="修复了Bug，删除图片">
+      <created>1583322169456</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1583322169456</updated>
+    </task>
+    <task id="LOCAL-00026" summary="增加限制图片大小的功能">
+      <created>1585731444377</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1585731444377</updated>
+    </task>
+    <task id="LOCAL-00027" summary="删除">
+      <created>1586966991928</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1586966991928</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="图片相关service层" />
+    <MESSAGE value="图片操作的dao层增加功能" />
+    <MESSAGE value="图片操作的service层更新" />
+    <MESSAGE value="删除图片的servlet" />
+    <MESSAGE value="查询所有的图片，并向前端返回json数据" />
+    <MESSAGE value="查询图片获取其存储路径，然后以流的形式返回前端页面展示" />
+    <MESSAGE value="图片文件上传处理的servlet" />
+    <MESSAGE value="项目的业务页面" />
+    <MESSAGE value="登录注册界面" />
+    <MESSAGE value="用户相关操作的servlet" />
+    <MESSAGE value="继承HttpServlet的子类，也是项目中所有servlet的父类,作用是减少servlet类的数量" />
+    <MESSAGE value="分页查询时返回前端的对象，封装了数据以及当前页面，总页码数等数据" />
+    <MESSAGE value="过滤器用来检查用户是否登录以及防止未登录的用户进行访问" />
+    <MESSAGE value="整体代码" />
+    <MESSAGE value="整体代码稍加更新" />
+    <MESSAGE value="修改了一个切换图片的Bug" />
+    <MESSAGE value="增加了一点文字" />
+    <MESSAGE value="新增的异常界面" />
+    <MESSAGE value="新增了错误页面跳转" />
+    <MESSAGE value="注释了每用的输出方法" />
+    <MESSAGE value="部署到服务器上改变了编码" />
+    <MESSAGE value="使用带缓冲区的字节流，但是大图片还是加载慢" />
+    <MESSAGE value="修复了Bug，删除图片" />
+    <MESSAGE value="增加限制图片大小的功能" />
+    <MESSAGE value="删除" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
