@@ -6,7 +6,23 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d437b424-042d-40b8-b1a8-057da734b503" name="Default Changelist" comment="" />
+    <list default="true" id="d437b424-042d-40b8-b1a8-057da734b503" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lyq/web/servlet/BaseServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lyq/web/servlet/BaseServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lyq/web/servlet/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lyq/web/servlet/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/druid.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lyq/web/servlet/ImageServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lyq/web/servlet/ImageServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lyq/web/servlet/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lyq/web/servlet/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/druid.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/images.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/images.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/images/WEB-INF/classes/com/lyq/web/servlet/ImageServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/images/WEB-INF/classes/com/lyq/web/servlet/ImageServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/images/WEB-INF/classes/com/lyq/web/servlet/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/images/WEB-INF/classes/com/lyq/web/servlet/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/images/WEB-INF/classes/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/images/WEB-INF/classes/druid.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/images/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -358,7 +374,8 @@
       <workItem from="1586866822997" duration="5960000" />
       <workItem from="1586958760440" duration="4420000" />
       <workItem from="1586966535626" duration="1118000" />
-      <workItem from="1587009381260" duration="1888000" />
+      <workItem from="1587009381260" duration="4323000" />
+      <workItem from="1587041430910" duration="17536000" />
     </task>
     <task id="LOCAL-00001" summary="完成：&#10;1.账号注册邮箱激活账号&#10;2.登录验证">
       <created>1582116906849</created>

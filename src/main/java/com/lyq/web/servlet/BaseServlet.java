@@ -36,14 +36,14 @@ public class BaseServlet extends HttpServlet {
 
 
     /**
-     * 写一个json序列化的方法让子类调用，因为ajax交互较多多，重写代码多可以抽取一下
+     * 写一个json序列化的方法让子类调用，因为ajax交互较多，重写代码多可以抽取一下
      * 该方法是以字符串形式返回的
      * @param info
      * @param resp
      * @throws IOException
      */
     public void writeValue(Object info,HttpServletResponse resp) throws IOException {
-        //4.响应数据,这里只有登陆失败才会走
+        //4.响应数据
         ObjectMapper mapper = new ObjectMapper();
         String json = mapper.writeValueAsString(info);
         resp.setContentType("application/json;charset=utf-8");

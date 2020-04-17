@@ -33,6 +33,7 @@ public class UserServlet extends BaseServlet {
         //1.第一步首先获取表单的数据
         String username = req.getParameter("username");
         String email = req.getParameter("email");
+        //使用MD5进行password的加密
         String password = DigestUtils.md5Hex(req.getParameter("password"));
         //2.封装数据
         user.setUsername(username);
@@ -43,17 +44,16 @@ public class UserServlet extends BaseServlet {
         UserServiceImpl userService = new UserServiceImpl();
         User u = userService.findByEmail(user.getEmail());
         if(u == null){
-            //说明数据库中没有数据，那么我们应该在数据库中存入用户信息
+            //说明数据库中没有此用户的数据，那么我们应该在数据库中存入用户信息
             userService.saveUser(user);
             info.setFlag(true);
-            //查询出来用户,为了得到那个id
+            //查询出来用户,为了得到那个id，因为暂时阿里云禁用了25端口，暂时无法进行邮件验证
 //            user = userService.findByEmail(user.getEmail());
-            MailUtils.sendMail(user.getEmail(),"<a href='http://39.98.181.113:8080/images/user/active?id="+user.getId()+"'>点击激活账户</a>","味醇~云相册");
-//            MailUtils.sendMail(user.getEmail(),"<a href='http://106.54.208.39:8080/imageserver/user/active?id="+user.getId()+"'>点击激活账户</a>","个人图库");
+           // MailUtils.sendMail(user.getEmail(),"<a href='http://39.98.181.113:8080/images/user/active?id="+user.getId()+"'>点击激活账户</a>","味醇~云相册");
 
 
         }else{
-            //注册失败说明数据库中存在此邮箱
+            //注册失败说明数据库中存在此邮箱对应注册的用户数据
             info.setFlag(false);
             info.setErrorMsg("该邮箱已注册！");
         }
@@ -85,7 +85,7 @@ public class UserServlet extends BaseServlet {
      * @throws IOException
      */
     public void login(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-//        System.out.println("走到这里来了");
+//
         ResultInfo info = new ResultInfo();
         //1.获取数据然后查询数据库看是否存在该用户
         String email = req.getParameter("email");
@@ -114,14 +114,15 @@ public class UserServlet extends BaseServlet {
                 info.setFlag(false);
                 info.setErrorMsg("该用户未激活");
             }else{
-//                System.out.println("走到了转发的路径");
-                //说明输入成功了，我们直接转发到index.html（发现的bug:这里不能转发和ajax冲突）
+                //说明登录的用户信息校验成功了，我们直接转发到index.html（发现的bug:这里不能转发和ajax冲突）
                 //我们将登陆成功的用户存入session中保证以后查询图片查的是自己的
                 req.getSession().setAttribute("user",u);
+                //设置session过期时间
+                req.getSession().setMaxInactiveInterval(100);
                 info.setFlag(true);
             }
         }
-        //4.响应数据
+        //4.响应数据写回到json中
         writeValue(info,resp);
     }
 
